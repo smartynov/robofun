@@ -9,6 +9,7 @@
   "main": "leap-ev3.js",
   "description": "Control Lego EV3 with Leap Motion sensor",
   "dependencies": {
-    "leapjs": "*"
+    "leapjs": "*",
+    "node-robot": "*"
   }
 }
